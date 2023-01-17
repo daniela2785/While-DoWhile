@@ -11,7 +11,7 @@ namespace While
 
 
             /*
-                //quando a condição  for pra sempre verdade ela vai ficar em loop infinito
+                //quando a condição  for pra sempre verdadeira ela vai ficar em loop infinito
                        int contador =  0;
                        while (contador < 20)
                        {
